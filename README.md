@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImagoMortis
+- 👋 Hi, I’m Manuel
 - 👀 I’m interested in solving problems and to create tools which maybe help other people
 - 🌱 I’m currently learning IT-Security, and the programming languages C,C++ and python
 
