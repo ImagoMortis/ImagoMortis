@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manuel
 - 👀 I’m interested in solving problems and to create tools which maybe help other people
-- 🌱 I’m currently learning IT-Security, and the programming languages C++ and python
+- 🌱 I’m currently learning the programming languages C++ and python
 
 <!---
 ImagoMortis/ImagoMortis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
