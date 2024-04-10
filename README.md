@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C,C++, Assembly**
 
-- ⚡ Fun fact **I don't like Python :(**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
